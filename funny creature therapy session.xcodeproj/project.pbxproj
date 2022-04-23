@@ -17,6 +17,8 @@
 		FE09136B28139D8C00502779 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE09134128139D8900502779 /* ContentView.swift */; };
 		FE09136C28139D8C00502779 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE09134228139D8C00502779 /* Assets.xcassets */; };
 		FE09136D28139D8C00502779 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE09134228139D8C00502779 /* Assets.xcassets */; };
+		FE9CE05C28149C90008F50B5 /* PentaStat.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE9CE05B28149C90008F50B5 /* PentaStat.swift */; };
+		FE9CE05D28149C90008F50B5 /* PentaStat.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE9CE05B28149C90008F50B5 /* PentaStat.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,7 @@
 		FE09136028139D8C00502779 /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE09136428139D8C00502779 /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		FE09136628139D8C00502779 /* Tests_macOSLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOSLaunchTests.swift; sourceTree = "<group>"; };
+		FE9CE05B28149C90008F50B5 /* PentaStat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PentaStat.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +102,7 @@
 			children = (
 				FE09134028139D8900502779 /* funny_creature_therapy_sessionApp.swift */,
 				FE09134128139D8900502779 /* ContentView.swift */,
+				FE9CE05B28149C90008F50B5 /* PentaStat.swift */,
 				FE09134228139D8C00502779 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -301,6 +305,7 @@
 			files = (
 				FE09136A28139D8C00502779 /* ContentView.swift in Sources */,
 				FE09136828139D8C00502779 /* funny_creature_therapy_sessionApp.swift in Sources */,
+				FE9CE05C28149C90008F50B5 /* PentaStat.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -310,6 +315,7 @@
 			files = (
 				FE09136B28139D8C00502779 /* ContentView.swift in Sources */,
 				FE09136928139D8C00502779 /* funny_creature_therapy_sessionApp.swift in Sources */,
+				FE9CE05D28149C90008F50B5 /* PentaStat.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
